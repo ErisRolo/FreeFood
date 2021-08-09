@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food_type">
+        <item>选择食物种类</item>
+        <item>Onion</item>
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Others</item>
+    </string-array>
+</resources>
